@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "エンターテイナー",
+  "base_artist": "オーイシマサヨシ",
+  "createdAt": "2026-03-01T13:59:47.665527Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "エンターテイナー",
+      "artist": "Rain Drops",
+      "has_synced": true,
+      "path": "select/01_エンターテイナー_Rain_Drops.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エンターテイナー",
+      "artist": "オーイシマサヨシ",
+      "has_synced": false,
+      "path": "select/pl_01_エンターテイナー_オーイシマサヨシ.txt"
+    }
+  ]
+}
